@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lwakis/Todo.git/static/css/main.dd82109c.chunk.css",
+    "main.js": "/lwakis/Todo.git/static/js/main.48012bf3.chunk.js",
+    "main.js.map": "/lwakis/Todo.git/static/js/main.48012bf3.chunk.js.map",
+    "runtime-main.js": "/lwakis/Todo.git/static/js/runtime-main.f8973e3f.js",
+    "runtime-main.js.map": "/lwakis/Todo.git/static/js/runtime-main.f8973e3f.js.map",
+    "static/js/2.673ae6ae.chunk.js": "/lwakis/Todo.git/static/js/2.673ae6ae.chunk.js",
+    "static/js/2.673ae6ae.chunk.js.map": "/lwakis/Todo.git/static/js/2.673ae6ae.chunk.js.map",
+    "static/js/3.24021958.chunk.js": "/lwakis/Todo.git/static/js/3.24021958.chunk.js",
+    "static/js/3.24021958.chunk.js.map": "/lwakis/Todo.git/static/js/3.24021958.chunk.js.map",
+    "index.html": "/lwakis/Todo.git/index.html",
+    "static/css/main.dd82109c.chunk.css.map": "/lwakis/Todo.git/static/css/main.dd82109c.chunk.css.map",
+    "static/js/2.673ae6ae.chunk.js.LICENSE.txt": "/lwakis/Todo.git/static/js/2.673ae6ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8973e3f.js",
+    "static/js/2.673ae6ae.chunk.js",
+    "static/css/main.dd82109c.chunk.css",
+    "static/js/main.48012bf3.chunk.js"
+  ]
+}
